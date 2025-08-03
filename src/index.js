@@ -1,1 +1,8 @@
-console.log('Welcome to this template this index js file is you front js file that you load the other js files into.');
+/* This file is the a startup file it will be how your app/webpage interacts with all the other functions and classes as well as 
+their will be a startup call function in here to happen when the page is opened/refreshed */
+
+// Imports below
+
+// Variables Below
+
+// Functions Below
