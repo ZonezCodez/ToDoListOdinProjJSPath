@@ -1,7 +1,7 @@
 {
-  "name": "webpack_template",
+  "name": "getitdonetodos",
   "version": "1.0.0",
-  "description": "Used for webpack base template do not change anything unless it template related!",
+  "description": "TodoProjects",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
