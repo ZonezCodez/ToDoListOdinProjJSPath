@@ -1,13 +1,5 @@
-# Webpack_Template
-Used for webpack base template do not change anything unless it template related!
+# To Do Project Manager
 
-This template includes the following!
+This is a project made for the Odin Project in 2025 by ZoneCodez hence Mason Yates for their Theodinproject.com Curriculum. Made in August of 2025.
 
-package.json
-webpack
-html webpack plugin
-css loader
-image loader
-dev server
-
-It also has some custom scripts for build and deploy and dev server.
+What this project includes will be below kind of explaining how some of the stuff works under the hood.
